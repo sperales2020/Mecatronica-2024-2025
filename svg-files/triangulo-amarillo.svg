@@ -3,5 +3,5 @@
   <!-- * Dibujo de un triángulo azul, con trazo negro
     * points: Secuencia de puntos x,y del poligono 
   -->
-  <polygon points="10,50 150,10 50,150" fill="yellow" stroke="black" />
+  <polygon points="100,100 100,100 100,100" fill="yellow" stroke="black" />
 </svg> 
