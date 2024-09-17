@@ -1,0 +1,28 @@
+<svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- * Escritura de texto
+      * x,y: Coordenadas de la parte superior izquierda del texto 
+    -->
+
+    <!-- Línea y texto -->
+    <text x="10" y="50" fill="black">Línea</text>
+
+    <!--  
+     Dibujar una línea recta:
+     * x1,y1: Punto inicial
+     * x2,y2: Punto final 
+     * Atributos de estilo:
+     * stroke : Color del trazo 
+    -->
+    <line x1="0" y1="0" x2="300" y2="200" stroke="red" />
+
+    <!-- Multilínea y texto -->
+    <text x="150" y="50" fill="black">Multilínea</text>  
+    
+    <!-- * Dibujo de una polilinea:
+    * Mismos parámetros que un polígono: una lista de puntos 
+  -->
+   <polyline points="0,0 50,150 100,75 150,50 200,140 250,140" 
+     fill="none" stroke="green"/>
+
+</svg>
