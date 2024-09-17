@@ -5,5 +5,5 @@
        * rx: Radio horizontal
        * ry: Radio vertical 
   -->
-  <ellipse rx="150" ry="50" cx="100" cy="50" fill="green"/>
+  <ellipse rx="100" ry="50" cx="120" cy="70" fill="green"/>
 </svg> 
