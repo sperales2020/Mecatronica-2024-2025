@@ -5,7 +5,8 @@
     -->
 
     <!-- Línea y texto -->
-    <text x="10" y="50" fill="black">Línea</text>
+    <text x="10" y="50" fill="red">-</text>
+    <text x="15" y="10" fill="black">Línea</text>
 
     <!--  
      Dibujar una línea recta:
