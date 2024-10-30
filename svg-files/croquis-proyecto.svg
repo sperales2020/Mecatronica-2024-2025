@@ -7,8 +7,8 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   sodipodi:docname="vending_machine.svg"
-   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   sodipodi:docname="croquis-proyecto.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,14 +24,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.272138"
-     inkscape:cx="422.51704"
-     inkscape:cy="315.21736"
+     inkscape:cx="422.51705"
+     inkscape:cy="629.64867"
      inkscape:window-width="1920"
-     inkscape:window-height="956"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:pageshadow="2"
+     showgrid="false" />
   <defs
      id="defs1" />
   <g
@@ -45,13 +47,6 @@
        height="61.818089"
        x="90.621338"
        y="60.501556" />
-    <rect
-       style="fill:#1a1a1a;stroke:#000000;stroke-width:1.056"
-       id="rect3-7"
-       width="58.217823"
-       height="61.818089"
-       x="90.330917"
-       y="150.11951" />
     <rect
        style="fill:#ffe6d5;stroke:#000000;stroke-width:1.056"
        id="rect4"
@@ -115,44 +110,5 @@
        cy="88.682709"
        rx="1.1401438"
        ry="1.4028552" />
-    <rect
-       style="fill:#ffffff;stroke:none;stroke-width:1.056"
-       id="rect13"
-       width="49.828503"
-       height="51.520638"
-       x="94.45636"
-       y="155.9855" />
-    <rect
-       style="fill:#a0892c;stroke:none;stroke-width:1.056"
-       id="rect14"
-       width="4.0659041"
-       height="9.9952784"
-       x="142.68001"
-       y="176.13261" />
-    <ellipse
-       style="fill:#000000;stroke:none;stroke-width:1.056"
-       id="path14"
-       cx="145.03912"
-       cy="178.9584"
-       rx="1.0043275"
-       ry="1.0273232" />
-    <ellipse
-       style="fill:#000000;stroke:none;stroke-width:1.056"
-       id="path14-6"
-       cx="144.87395"
-       cy="182.91063"
-       rx="1.0043275"
-       ry="1.0273232" />
-    <ellipse
-       style="fill:#000000;stroke:none;stroke-width:1.056"
-       id="path15"
-       cx="97.644646"
-       cy="181.9962"
-       rx="2.2959712"
-       ry="2.5063598" />
-    <path
-       style="fill:#cccccc;stroke:none;stroke-width:1.056"
-       d="m 98.700464,180.81904 c -1.718767,0.85198 -1.718767,0.85198 -1.718767,0.85198 0,0 -1.30048,-0.47194 0,0 1.300477,0.47194 1.300477,0.47194 1.300477,0.47194 l -1.037108,0.93331 0.26635,0.28414 v -0.24355 l -0.007,0.0753"
-       id="path16" />
   </g>
 </svg>
